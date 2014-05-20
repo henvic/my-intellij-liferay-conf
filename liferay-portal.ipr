@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="CopyrightManager" default="">
+    <module2copyright />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DependencyValidationManager">
+    <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+  </component>
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profiles>
+      <profile version="1.0" is_locked="false">
+        <option name="myName" value="Project Default" />
+        <option name="myLocal" value="false" />
+        <inspection_tool class="JavadocReference" enabled="false" level="WARNING" enabled_by_default="false" />
+        <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+          <option name="processCode" value="true" />
+          <option name="processLiterals" value="true" />
+          <option name="processComments" value="true" />
+        </inspection_tool>
+      </profile>
+    </profiles>
+    <option name="PROJECT_PROFILE" value="Project Default" />
+    <option name="USE_PROJECT_PROFILE" value="true" />
+    <version value="1.0" />
+  </component>
+  <component name="JRebel Project data">
+    <option name="privateKey" value="3082025b02010002818100a51376c46f157f6ef0ac538bbdb5d6f42e09c2eebfa74b33e2190777afa02959f0d52acfa3e0342813a3e57538a3864a68eb0575fbacde87fa6baac38357fb15df36689ba52c6ea79f54a00d79be6bb809ba4bd35ca761363ddd86bd4d5e1f09974358993bf5fd0c92c435afdb2af56297fa61e967b17da788add09eaf280139020301000102818068aa23a6becc01a584c1aea32ea0e9ee9e761ffba2d6deaec1cf9ed57b2c70ab8f308959680d52e48a3763d8641602a2914d5a840913fd70780de612dae760d1e3aa215025d3b6cf8eeba1046af3212d883888de17d4b5bb5cabb595fd6f4b1d11b505e5ecae2ca51f11f80682865a0c8fbff716c3f70e392d556540621d6ab5024100cea7b21638916ec01674f078dcabbaa5b0567eb515cd3301000fa9ba22ca78f0c7aba8ddfab81cb610bda5a8044ca34a568fd5258f1f4981cf5f82ba07aff647024100cc7e258e420a92f611d5611448bf267e19673e9d6ce3ead214ac9654cf27a0c591339365f2e1bd4cb20c6eeb64390c1eef61bf3f92b8927177b093ee3b628c7f024071dacc7017ac70931e0c416ca54f6bdedb5f5c21d2a822409bd30554cad4387b97d6888bfc1531a45166dafccd9997a15e3d9256461b1bb98c11f8091c31230302407e43bdc8b2fa7877bbd73714213ef5f39297ef4fa0f6b1fd798a7f606a709b92a1ef68a9e068864c1efc1259020f3f6eb27c766c389a02c2511714a05ac6a4dd02406b34bb1ad34d3b15a1064a9ef09750d8dd488c0884323acfca20576a413ad32d6eb3cd5d18849904bbb11da42fe03427791e097d1b07f3043f3c668b54d9dd1d" />
+    <option name="publicKey" value="30818902818100a51376c46f157f6ef0ac538bbdb5d6f42e09c2eebfa74b33e2190777afa02959f0d52acfa3e0342813a3e57538a3864a68eb0575fbacde87fa6baac38357fb15df36689ba52c6ea79f54a00d79be6bb809ba4bd35ca761363ddd86bd4d5e1f09974358993bf5fd0c92c435afdb2af56297fa61e967b17da788add09eaf2801390203010001" />
+  </component>
+  <component name="Palette2">
+    <group name="Swing">
+      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
+      </item>
+      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
+      </item>
+      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
+      </item>
+      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.png" removable="false" auto-create-binding="false" can-attach-label="true">
+        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
+      </item>
+      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
+        <initial-values>
+          <property name="text" value="Button" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+        <initial-values>
+          <property name="text" value="RadioButton" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+        <initial-values>
+          <property name="text" value="CheckBox" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
+        <initial-values>
+          <property name="text" value="Label" />
+        </initial-values>
+      </item>
+      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+          <preferred-size width="150" height="-1" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+          <preferred-size width="150" height="-1" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+          <preferred-size width="150" height="-1" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
+      </item>
+      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+          <preferred-size width="150" height="50" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+          <preferred-size width="200" height="200" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+          <preferred-size width="200" height="200" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.png" removable="false" auto-create-binding="true" can-attach-label="true">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+      </item>
+      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+      </item>
+      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
+      </item>
+      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
+      </item>
+      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
+          <preferred-size width="-1" height="20" />
+        </default-constraints>
+      </item>
+      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.png" removable="false" auto-create-binding="false" can-attach-label="false">
+        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
+      </item>
+      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.png" removable="false" auto-create-binding="true" can-attach-label="false">
+        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
+      </item>
+    </group>
+  </component>
+  <component name="ProjectCodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value>
+        <XML>
+          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+        </XML>
+      </value>
+    </option>
+    <option name="PREFERRED_PROJECT_CODE_STYLE" value="Liferay" />
+  </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="Marcellus" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bootstrap/bootstrap.iml" filepath="$PROJECT_DIR$/bootstrap/bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/definitions/definitions.iml" filepath="$PROJECT_DIR$/definitions/definitions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portal/portal.iml" filepath="$PROJECT_DIR$/portal/portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portal-impl/portal-impl.iml" filepath="$PROJECT_DIR$/portal-impl/portal-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portal-service/portal-service.iml" filepath="$PROJECT_DIR$/portal-service/portal-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portal-web/portal-web.iml" filepath="$PROJECT_DIR$/portal-web/portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osgi/modules/registry/registry.iml" filepath="$PROJECT_DIR$/osgi/modules/registry/registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util-bridges/util-bridges.iml" filepath="$PROJECT_DIR$/util-bridges/util-bridges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util-java/util-java.iml" filepath="$PROJECT_DIR$/util-java/util-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util-taglib/util-taglib.iml" filepath="$PROJECT_DIR$/util-taglib/util-taglib.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/bin" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="development">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/lib/development/jasper.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/derbytools.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/orangevolt-ant-tasks.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/spring-test.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/ecj.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/jetty-server.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/script-10.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/hamcrest-core.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/jhighlight.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/tomcat-coyote.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/tlddoc.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/activation.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/jetty-util.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/spring-instrument-tomcat.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/interbase.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/resin.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/antelope.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/saxpath.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/ant-ext.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/hamcrest-library.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/maven-ant-tasks.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/sdk-addon-api-0.2.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/dumbster.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/sikuli-script.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/xmltask.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/cobertura.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/spring-instrument.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/jndi.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/jutf7.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/dtdparser.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/jsp-api.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/sonar-ant-task.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/error-prone-ant.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/mysql.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/objenesis.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/mockito.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/ant-installer.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/persistence.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/firebird.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/ant-apache-bsf.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/jms.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/derby.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/selenium-server.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/ant-contrib.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/mail.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/j2h.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/jymsg.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/jserrorcollector.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/servlet-api.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/liferay-doclet.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/catalina.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/powermock-mockito.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/hsql.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/selenium-java.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/jarjar.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/junit.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/jalopy.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/dtddoc.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/sap.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/annotations.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/jtds.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/jaxb-api.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/p6spy.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/postgresql.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/qdox.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/jbi_rt.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/smtp.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/jargs.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/jta.jar!/" />
+        <root url="jar://$PROJECT_DIR$/lib/development/deployment.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="global">
+      <CLASSES>
+        <root url="file://$PROJECT_DIR$/lib/global" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$PROJECT_DIR$/lib/global" recursive="false" />
+    </library>
+    <library name="osgi">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/osgi/lib/common/core/osgi.core.jar!/" />
+        <root url="jar://$PROJECT_DIR$/osgi/lib/common/core/osgi.cmpn.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="portal">
+      <CLASSES>
+        <root url="file://$PROJECT_DIR$/lib/portal" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$PROJECT_DIR$/lib/portal" />
+      </SOURCES>
+      <jarDirectory url="file://$PROJECT_DIR$/lib/portal" recursive="false" />
+      <jarDirectory url="file://$PROJECT_DIR$/lib/portal" recursive="false" type="SOURCES" />
+    </library>
+  </component>
+</project>
+

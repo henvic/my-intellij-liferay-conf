@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14dbb360-b72b-4b5e-99f3-34b190f661c6" name="Default" comment="" />
+    <ignored path="liferay-portal.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+    <option name="COMPILER_PROCESS_HEAP_SIZE" value="2048" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints>
+      <breakpoint url="file://$PROJECT_DIR$/portal-service/src/com/liferay/portal/kernel/util/ParamUtil.java" line="739" class="com.liferay.portal.kernel.util.ParamUtil" package="com.liferay.portal.kernel.util">
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="liferay-portal" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/portal-web/docroot/html/taglib/ddm/html_field/init-ext.jspf" />
+        <option value="$PROJECT_DIR$/portal-web/docroot/html/taglib/ddm/html/init-ext.jspf" />
+        <option value="$PROJECT_DIR$/portal-service/src/com/liferay/portal/kernel/workflow/WorkflowHandler.java" />
+        <option value="$PROJECT_DIR$/portal-service/src/com/liferay/portal/kernel/workflow/BaseWorkflowHandler.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/workflowtasks/notifications/WorkflowTasksUserNotificationHandler.java" />
+        <option value="$PROJECT_DIR$/portal-service/src/com/liferay/portal/kernel/workflow/WorkflowHandlerRegistryUtil.java" />
+        <option value="$PROJECT_DIR$/portal-impl/test/integration/com/liferay/portlet/journal/util/JournalConverterUtilTest.java" />
+        <option value="$PROJECT_DIR$/portal-service/src/com/liferay/portal/kernel/util/ReleaseInfo.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/blogs/service/impl/BlogsEntryLocalServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../liferay-plugins/portlets/calendar-portlet/.project" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portal/spring/context/PortalContextLoaderListener.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portal/deploy/hot/HookHotDeployListener.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portal/util/HtmlImpl.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portal/upgrade/v7_0_0/UpgradeJournal.java" />
+        <option value="$PROJECT_DIR$/portal-service/src/com/liferay/portlet/journal/util/JournalConverter.java" />
+        <option value="$PROJECT_DIR$/portal-service/src/com/liferay/portlet/journal/util/JournalConverterUtil.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portal/upgrade/v6_2_0/UpgradeJournal.java" />
+        <option value="$PROJECT_DIR$/portal-web/docroot/html/portlet/navigation/view.jsp" />
+        <option value="$PROJECT_DIR$/util-taglib/src/com/liferay/taglib/liferay-aui.xml" />
+        <option value="$PROJECT_DIR$/util-taglib/build.xml" />
+        <option value="$PROJECT_DIR$/portal-web/docroot/html/taglib/aui/input/page.jsp" />
+        <option value="$PROJECT_DIR$/portal-web/docroot/html/portlet/breadcrumb/view.jsp" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/journal/util/JournalConverterImpl.java" />
+        <option value="$PROJECT_DIR$/portal-impl/test/unit/com/liferay/portlet/blogs/util/LinkbackConsumerUtilTest.java" />
+        <option value="$PROJECT_DIR$/portal-service/src/com/liferay/portal/kernel/util/StringUtil.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portal/json/transformer/FlexjsonObjectJSONTransformer.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/blogs/service.xml" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/blogs/pingback/PingbackExcerptExtractor.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/blogs/util/PingbackMethodImpl.java" />
+        <option value="$PROJECT_DIR$/portal-service/src/com/liferay/portal/kernel/util/Function.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/blogs/pingback/DuplicateCommentException.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/blogs/pingback/PingbackDisabledException.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/blogs/pingback/InvalidSourceURIException.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/blogs/pingback/UnavailableSourceURIException.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/blogs/pingback/PingbackCommentsImpl.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/blogs/pingback/PingbackComments.java" />
+        <option value="$PROJECT_DIR$/portal-impl/test/unit/com/liferay/portlet/blogs/pingback/PingbackCommentsImplTest.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/blogs/pingback/PingbackExcerptExtractorImpl.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/blogs/pingback/PingbackImpl.java" />
+        <option value="$PROJECT_DIR$/portal-impl/test/unit/com/liferay/portlet/blogs/pingback/PingbackServiceContextFunctionTest.java" />
+        <option value="$PROJECT_DIR$/portal-web/docroot/dtd/liferay-workflow-definition_6_2_0.xsd" />
+        <option value="$PROJECT_DIR$/portal-impl/test/unit/com/liferay/portlet/blogs/pingback/PingbackImplTest.java" />
+        <option value="$PROJECT_DIR$/portal-impl/test/unit/com/liferay/portlet/blogs/pingback/PingbackExcerptExtractorImplTest.java" />
+        <option value="$PROJECT_DIR$/portal-impl/test/unit/com/liferay/portlet/blogs/util/PingbackMethodImplTest.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/blogs/pingback/PingbackServiceContextFunction.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/service/impl/DDMTemplateServiceImpl.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/service/impl/DDMTemplateLocalServiceImpl.java" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/dependencies/alloy/option.ftl" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/dependencies/ddm/link-to-page.ftl" />
+        <option value="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/util/DDMXSDImpl.java" />
+        <option value="$PROJECT_DIR$/portal-service/src/com/liferay/portal/kernel/scheduler/SchedulerLifecycle.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1920" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="module-circular-dependency(project:general)" />
+    </ignored-problems>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="liferay-portal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="options.splitter.main.proportions" value="0.23060942" />
+    <property name="options.lastSelected" value="Errors" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../liferay-plugins/portlets/calendar-portlet" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="SearchEverywhereHistory" value="&#10;u&#10;image.&#10;s&#10;`" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="extract.method.default.visibility" value="protected" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.liferay.portlet.blogs.trackback" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.liferay.portlet.dynamicdatamapping.util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/dependencies/ddm" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Remote.liferay-portal">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="false" name="liferay-portal" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="8000" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="8000" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Remote.liferay-portal" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14dbb360-b72b-4b5e-99f3-34b190f661c6" name="Default" comment="" />
+      <created>1392675548632</created>
+      <updated>1392675548632</updated>
+      <workItem from="1392675890997" duration="19000" />
+      <workItem from="1392676056990" duration="24000" />
+      <workItem from="1392676087743" duration="4000" />
+      <workItem from="1392676094243" duration="2000" />
+      <workItem from="1392676152429" duration="587000" />
+      <workItem from="1392682009355" duration="2904000" />
+      <workItem from="1392684986345" duration="273000" />
+      <workItem from="1392685398071" duration="265000" />
+      <workItem from="1392685698726" duration="7567000" />
+      <workItem from="1392743694652" duration="599000" />
+      <workItem from="1392745291014" duration="2495000" />
+      <workItem from="1392755735718" duration="16501000" />
+      <workItem from="1392845262927" duration="142000" />
+      <workItem from="1392927929771" duration="3110000" />
+      <workItem from="1392989400373" duration="12895000" />
+      <workItem from="1393254903659" duration="1363000" />
+      <workItem from="1393262444390" duration="31000" />
+      <workItem from="1393262488764" duration="39000" />
+      <workItem from="1393262540894" duration="52000" />
+      <workItem from="1393262605322" duration="40000" />
+      <workItem from="1393262658803" duration="76000" />
+      <workItem from="1393262749273" duration="26000" />
+      <workItem from="1393262789353" duration="2997000" />
+      <workItem from="1393449265601" duration="5113000" />
+      <workItem from="1393507635810" duration="19580000" />
+      <workItem from="1394111284060" duration="7565000" />
+      <workItem from="1394457112191" duration="14941000" />
+      <workItem from="1394571198723" duration="1749000" />
+      <workItem from="1394628665210" duration="18631000" />
+      <workItem from="1395068423086" duration="15813000" />
+      <workItem from="1395330303673" duration="15856000" />
+      <workItem from="1396014161263" duration="252000" />
+      <workItem from="1396452281299" duration="2341000" />
+      <workItem from="1396540487018" duration="1227000" />
+      <workItem from="1396961439654" duration="6761000" />
+      <workItem from="1397477969241" duration="349000" />
+      <workItem from="1397485300429" duration="7807000" />
+      <workItem from="1397571577981" duration="4012000" />
+      <workItem from="1397684826514" duration="337000" />
+      <workItem from="1397736617114" duration="9157000" />
+      <workItem from="1398257588511" duration="25438000" />
+      <workItem from="1398779966601" duration="6427000" />
+      <workItem from="1399311406488" duration="31000" />
+      <workItem from="1399311483421" duration="1046000" />
+      <workItem from="1399312827795" duration="79000" />
+      <workItem from="1399313038244" duration="81000" />
+      <workItem from="1399313153850" duration="56000" />
+      <workItem from="1399313215990" duration="4000" />
+      <workItem from="1399313250860" duration="131000" />
+      <workItem from="1399382866854" duration="13967000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="230762000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25076142" sideWeight="0.3515625" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19270833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28527918" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25989848" sideWeight="0.6484375" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19488817" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21624365" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Module Dependencies" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298611" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25076142" sideWeight="0.3515625" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19270833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28527918" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25989848" sideWeight="0.6484375" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19488817" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21624365" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Module Dependencies" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298611" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portal/servlet/filters/sso/ntlm/NtlmFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.51724136" vertical-offset="495" max-vertical-offset="4575" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-service/src/com/liferay/portlet/messageboards/service/MBMessageLocalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="436" column="68" selection-start="22456" selection-end="22456" vertical-scroll-proportion="0.33333334" vertical-offset="6053" max-vertical-offset="9825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/blogs/action/TrackbackServiceContextFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="33" selection-start="1062" selection-end="1062" vertical-scroll-proportion="0.2507837" vertical-offset="0" max-vertical-offset="957" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-service/src/com/liferay/portal/service/PortletLocalServiceUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="374" column="51" selection-start="16195" selection-end="16195" vertical-scroll-proportion="0.33262712" vertical-offset="5116" max-vertical-offset="7005" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-service/src/com/liferay/portal/kernel/security/pacl/permission/PortalSocketPermission.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="13" selection-start="1013" selection-end="1013" vertical-scroll-proportion="0.33333334" vertical-offset="30" max-vertical-offset="1485" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/blogs/action/RSSAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="36" selection-start="3246" selection-end="3246" vertical-scroll-proportion="0.62174577" vertical-offset="824" max-vertical-offset="1500" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-service/src/com/liferay/portal/kernel/util/StringPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="36" selection-start="1113" selection-end="1118" vertical-scroll-proportion="0.68786985" vertical-offset="90" max-vertical-offset="3180" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/portal/simplecaptcha.jar!/nl/captcha/Captcha.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="34" selection-start="2344" selection-end="2344" vertical-scroll-proportion="0.7158218" vertical-offset="299" max-vertical-offset="975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portal/captcha/simplecaptcha/SimpleCaptchaImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="249" column="0" selection-start="6492" selection-end="6492" vertical-scroll-proportion="0.5956113" vertical-offset="2985" max-vertical-offset="6630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portal/atom/AtomTargetBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="25" selection-start="1016" selection-end="1016" vertical-scroll-proportion="0.122257054" vertical-offset="138" max-vertical-offset="1095" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portal/atom/AtomProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="37" selection-start="2526" selection-end="2526" vertical-scroll-proportion="0.27899686" vertical-offset="903" max-vertical-offset="1860" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/blogs/util/PingbackMethodImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="95" column="19" selection-start="2869" selection-end="2869" vertical-scroll-proportion="0.46708465" vertical-offset="798" max-vertical-offset="1755" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-service/src/com/liferay/portal/service/ServiceContextFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8340" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portal/dao/orm/hibernate/PortletSessionFactoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="37" selection-start="3272" selection-end="3272" vertical-scroll-proportion="0.33284023" vertical-offset="1260" max-vertical-offset="2715" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-service/src/com/liferay/portlet/dynamicdatamapping/model/DDMTemplateConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="13" selection-start="723" selection-end="723" vertical-scroll-proportion="0.12539186" vertical-offset="0" max-vertical-offset="957" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/service/impl/DDMStructureLocalServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1505" column="27" selection-start="53555" selection-end="53555" vertical-scroll-proportion="0.33792374" vertical-offset="22256" max-vertical-offset="27705" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portal/service/impl/ImageLocalServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="13" selection-start="2709" selection-end="2771" vertical-scroll-proportion="0.39602926" vertical-offset="1151" max-vertical-offset="4020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/service/http/DDMTemplateService_deploy.wsdd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="111" selection-start="18530" selection-end="18633" vertical-scroll-proportion="1.9869707" vertical-offset="0" max-vertical-offset="3285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portal/tools/dependencies/server-config.wsdd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="676" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1154" column="28" selection-start="33445" selection-end="33455" vertical-scroll-proportion="0.06355932" vertical-offset="17250" max-vertical-offset="27975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portal/tools/dependencies/portal-tools.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="13" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/portal/portal-ant-shared.jar!/com/liferay/portal/ant/Java2WsddTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="165" selection-end="165" vertical-scroll-proportion="0.11942675" vertical-offset="0" max-vertical-offset="628" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portal/tools/WSDDBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="43" selection-start="658" selection-end="671" vertical-scroll-proportion="-1.1786834" vertical-offset="1188" max-vertical-offset="2145" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-service/src/com/liferay/portal/kernel/util/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="23" selection-start="2563" selection-end="2563" vertical-scroll-proportion="0.33333334" vertical-offset="874" max-vertical-offset="7845" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/service/impl/DDMTemplateServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="915" column="34" selection-start="39016" selection-end="39016" vertical-scroll-proportion="0.45396146" vertical-offset="13301" max-vertical-offset="14265" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-service/src/com/liferay/portal/service/ImageLocalServiceUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="196" column="49" selection-start="9142" selection-end="9142" vertical-scroll-proportion="0.33296213" vertical-offset="2461" max-vertical-offset="5115" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/model/impl/DDMTemplateImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="0" selection-start="1807" selection-end="1807" vertical-scroll-proportion="0.0" vertical-offset="273" max-vertical-offset="1785" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portal/util/FileImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="468" column="18" selection-start="11372" selection-end="11372" vertical-scroll-proportion="0.33333334" vertical-offset="6701" max-vertical-offset="16155" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/service/impl/DDMTemplateLocalServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1368" column="8" selection-start="52457" selection-end="52457" vertical-scroll-proportion="0.06269593" vertical-offset="20280" max-vertical-offset="22875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-service/src/com/liferay/portal/service/BaseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="33" selection-start="2494" selection-end="2515" vertical-scroll-proportion="0.3646813" vertical-offset="641" max-vertical-offset="1695">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/documentlibrary/service/impl/DLFileEntryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="417" column="21" selection-start="12669" selection-end="12669" vertical-scroll-proportion="0.599791" vertical-offset="5681" max-vertical-offset="11025">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/documentlibrary/webdav/DLWebDAVStorageImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="303" column="0" selection-start="9336" selection-end="9336" vertical-scroll-proportion="0.33333334" vertical-offset="4226" max-vertical-offset="16185">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/util/DDMFieldsCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="13" selection-start="752" selection-end="752" vertical-scroll-proportion="0.15673982" vertical-offset="0" max-vertical-offset="957">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-service/src/com/liferay/portal/kernel/util/ArrayUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1018" column="26" selection-start="21037" selection-end="21037" vertical-scroll-proportion="0.33333334" vertical-offset="14771" max-vertical-offset="30675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util-java/src/com/liferay/util/json/JSONFactoryUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="45" selection-start="862" selection-end="862" vertical-scroll-proportion="0.49215406" vertical-offset="0" max-vertical-offset="701">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-service/src/com/liferay/portal/kernel/json/JSONFactoryUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="25" selection-start="2839" selection-end="2839" vertical-scroll-proportion="0.33238232" vertical-offset="1072" max-vertical-offset="2250">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/portal-ext.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="35" selection-start="380" selection-end="380" vertical-scroll-proportion="0.27817404" vertical-offset="0" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/dependencies/ddm/text-html.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="26" selection-end="121" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/dependencies/init.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="22" selection-start="1769" selection-end="1782" vertical-scroll-proportion="0.17771085" vertical-offset="902" max-vertical-offset="2445">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/util/DDMImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="533" column="66" selection-start="15675" selection-end="15712" vertical-scroll-proportion="1.0328103" vertical-offset="7271" max-vertical-offset="9015">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/dependencies/alloy/option.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="105" selection-start="898" selection-end="918" vertical-scroll-proportion="0.5760709" vertical-offset="0" max-vertical-offset="677">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-service/src/com/liferay/portal/kernel/util/ParamUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="849" column="0" selection-start="23603" selection-end="23603" vertical-scroll-proportion="0.33238232" vertical-offset="12502" max-vertical-offset="13770">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/dependencies/ddm/link-to-page.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="25" selection-end="25" vertical-scroll-proportion="0.022156574" vertical-offset="0" max-vertical-offset="1425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/dependencies/ddm/date.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="62" selection-start="621" selection-end="629" vertical-scroll-proportion="0.35450518" vertical-offset="0" max-vertical-offset="677">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatamapping/util/DDMXSDImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="138" column="0" selection-start="5247" selection-end="5247" vertical-scroll-proportion="-0.404" vertical-offset="2272" max-vertical-offset="14985">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-service/src/com/liferay/portal/kernel/search/BaseIndexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1103" column="19" selection-start="29267" selection-end="29267" vertical-scroll-proportion="16.399164" vertical-offset="671" max-vertical-offset="27210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatalists/util/DDLIndexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="17" selection-start="3811" selection-end="3811" vertical-scroll-proportion="-1.4764891" vertical-offset="3033" max-vertical-offset="4695">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-impl/src/com/liferay/portlet/dynamicdatalists/service/impl/DDLRecordLocalServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.8652037" vertical-offset="1785" max-vertical-offset="11940">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-service/src/com/liferay/portal/kernel/scheduler/SchedulerLifecycle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="920" selection-end="920" vertical-scroll-proportion="0.45454547" vertical-offset="0" max-vertical-offset="957">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portal-service/src/com/liferay/portal/kernel/workflow/WorkflowHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="40" selection-start="2339" selection-end="2361" vertical-scroll-proportion="0.6583072" vertical-offset="450" max-vertical-offset="1710">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>portal-impl</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>osgi</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
